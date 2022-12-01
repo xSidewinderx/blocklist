@@ -6,6 +6,6 @@
 ! Homepage: none
 ! Syntax: Adblock Plus Filter List             
 
-||https://adservetx.media.net
-||https://m.doubleclick.net
-||https://mediavisor.doubleclick.net
+https://adservetx.media.net
+https://m.doubleclick.net
+https://mediavisor.doubleclick.net
