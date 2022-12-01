@@ -1,7 +1,7 @@
 
 # [163.com]
-127.0.0.1 https://adservetx.media.net
-127.0.0.1 https://m.doubleclick.net
-127.0.0.1 https://mediavisor.doubleclick.net
-127.0.0.1 https://ads.youtube.com
-127.0.0.1 https://analytics.tiktok.com
+127.0.0.1 https://adservetx.media.net^
+127.0.0.1 https://m.doubleclick.net^
+127.0.0.1 https://mediavisor.doubleclick.net^
+127.0.0.1 https://ads.youtube.com^
+127.0.0.1 https://analytics.tiktok.com^
