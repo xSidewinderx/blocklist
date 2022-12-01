@@ -1,0 +1,19 @@
+[Adblock Plus]
+! Version: 202212011618
+! Title: oisd basic
+! Last modified: 2022-12-01T16:18:13+0000
+! Expires: 1 days (update frequency)
+! Homepage: none
+! Syntax: Adblock Plus Filter List             
+
+||https://adservetx.media.net^
+||https://m.doubleclick.net^
+||https://mediavisor.doubleclick.net^
+||000tristanprod.free.fr^
+||0024aaaa.com^
+||003store.com^
+||004fsdljasd.xyz^
+||007angels.com^
+||00aaa2d81c1d174.com^
+||00author.com^
+||00go.com^
